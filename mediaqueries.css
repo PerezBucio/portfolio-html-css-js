@@ -1,3 +1,4 @@
+/* Media Queries */
 @media screen and (max-width: 1400px) {
     #profile {
         height: 83vh;
@@ -41,8 +42,8 @@
     .about-container {
         margin-top: 0;
     }
-
 }
+
 @media screen and (max-width: 600px) {
     #contact,
     footer {
